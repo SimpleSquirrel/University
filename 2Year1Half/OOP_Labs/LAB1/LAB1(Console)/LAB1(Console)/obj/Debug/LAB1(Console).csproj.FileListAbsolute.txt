@@ -1,0 +1,6 @@
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\bin\Debug\LAB1(Console).exe.config
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\bin\Debug\LAB1(Console).exe
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\bin\Debug\LAB1(Console).pdb
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\obj\Debug\LAB1(Console).csproj.CoreCompileInputs.cache
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\obj\Debug\LAB1(Console).exe
+W:\ООП\LAB1\LAB1(Console)\LAB1(Console)\obj\Debug\LAB1(Console).pdb

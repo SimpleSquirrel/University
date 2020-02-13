@@ -1,0 +1,4 @@
+﻿  strings.cpp
+w:\ооп\strings\strings\strings.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+w:\ооп\strings\strings\strings.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+  strings.vcxproj -> W:\ООП\strings\Debug\strings.exe

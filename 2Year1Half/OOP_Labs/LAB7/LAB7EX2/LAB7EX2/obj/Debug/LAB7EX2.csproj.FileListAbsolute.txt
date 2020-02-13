@@ -1,0 +1,10 @@
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\bin\Debug\LAB7EX2.exe.config
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\bin\Debug\LAB7EX2.exe
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\bin\Debug\LAB7EX2.pdb
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.csprojAssemblyReference.cache
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.Form1.resources
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.Properties.Resources.resources
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.csproj.GenerateResource.cache
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.csproj.CoreCompileInputs.cache
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.exe
+W:\ООП\LAB7\LAB7EX2\LAB7EX2\obj\Debug\LAB7EX2.pdb

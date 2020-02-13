@@ -1,0 +1,10 @@
+W:\Проектировка\EXER\EXER\bin\Debug\EXER.exe.config
+W:\Проектировка\EXER\EXER\bin\Debug\EXER.exe
+W:\Проектировка\EXER\EXER\bin\Debug\EXER.pdb
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.csprojAssemblyReference.cache
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.Form1.resources
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.Properties.Resources.resources
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.csproj.GenerateResource.cache
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.csproj.CoreCompileInputs.cache
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.exe
+W:\Проектировка\EXER\EXER\obj\Debug\EXER.pdb

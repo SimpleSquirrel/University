@@ -1,0 +1,10 @@
+W:\Проектировка\RandomAPP1311\RandomAPP1311\bin\Debug\RandomAPP1311.exe.config
+W:\Проектировка\RandomAPP1311\RandomAPP1311\bin\Debug\RandomAPP1311.exe
+W:\Проектировка\RandomAPP1311\RandomAPP1311\bin\Debug\RandomAPP1311.pdb
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.csprojAssemblyReference.cache
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.Form1.resources
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.Properties.Resources.resources
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.csproj.GenerateResource.cache
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.csproj.CoreCompileInputs.cache
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.exe
+W:\Проектировка\RandomAPP1311\RandomAPP1311\obj\Debug\RandomAPP1311.pdb

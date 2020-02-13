@@ -1,0 +1,10 @@
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\bin\Debug\LAB6EX3.exe.config
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\bin\Debug\LAB6EX3.exe
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\bin\Debug\LAB6EX3.pdb
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.Form1.resources
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.Properties.Resources.resources
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.csproj.GenerateResource.cache
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.csproj.CoreCompileInputs.cache
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.exe
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.pdb
+W:\ООП\LAB6\LAB6EX3\LAB6EX3\obj\Debug\LAB6EX3.csprojAssemblyReference.cache

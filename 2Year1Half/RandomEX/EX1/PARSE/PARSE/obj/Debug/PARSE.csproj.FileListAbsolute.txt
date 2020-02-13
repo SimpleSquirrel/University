@@ -1,0 +1,10 @@
+W:\Проектировка\EX1\PARSE\PARSE\bin\Debug\PARSE.exe.config
+W:\Проектировка\EX1\PARSE\PARSE\bin\Debug\PARSE.exe
+W:\Проектировка\EX1\PARSE\PARSE\bin\Debug\PARSE.pdb
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.csprojAssemblyReference.cache
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.Form1.resources
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.Properties.Resources.resources
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.csproj.GenerateResource.cache
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.csproj.CoreCompileInputs.cache
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.exe
+W:\Проектировка\EX1\PARSE\PARSE\obj\Debug\PARSE.pdb

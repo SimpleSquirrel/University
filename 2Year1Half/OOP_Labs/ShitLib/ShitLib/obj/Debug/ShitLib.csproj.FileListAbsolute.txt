@@ -1,0 +1,6 @@
+W:\ООП\ShitLib\ShitLib\bin\Debug\ShitLib.dll
+W:\ООП\ShitLib\ShitLib\bin\Debug\ShitLib.pdb
+W:\ООП\ShitLib\ShitLib\obj\Debug\ShitLib.csprojAssemblyReference.cache
+W:\ООП\ShitLib\ShitLib\obj\Debug\ShitLib.csproj.CoreCompileInputs.cache
+W:\ООП\ShitLib\ShitLib\obj\Debug\ShitLib.dll
+W:\ООП\ShitLib\ShitLib\obj\Debug\ShitLib.pdb

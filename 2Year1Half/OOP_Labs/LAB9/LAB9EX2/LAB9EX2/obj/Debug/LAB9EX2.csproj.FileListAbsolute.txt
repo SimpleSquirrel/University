@@ -1,0 +1,6 @@
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\bin\Debug\LAB9EX2.exe.config
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\bin\Debug\LAB9EX2.exe
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\bin\Debug\LAB9EX2.pdb
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\obj\Debug\LAB9EX2.csproj.CoreCompileInputs.cache
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\obj\Debug\LAB9EX2.exe
+W:\ООП\LAB9\LAB9EX2\LAB9EX2\obj\Debug\LAB9EX2.pdb

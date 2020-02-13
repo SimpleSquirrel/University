@@ -1,0 +1,13 @@
+﻿  LABA8.cpp
+w:\асд\laba8\laba8\laba8.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+w:\асд\laba8\laba8\laba8.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+w:\асд\laba8\laba8\laba8.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+  LABA8.vcxproj -> W:\АСД\LABA8\Debug\LABA8.exe

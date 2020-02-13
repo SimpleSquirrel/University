@@ -1,0 +1,10 @@
+W:\Проектировка\RAND1311EX3\RAND1311EX3\bin\Debug\RAND1311EX3.exe.config
+W:\Проектировка\RAND1311EX3\RAND1311EX3\bin\Debug\RAND1311EX3.exe
+W:\Проектировка\RAND1311EX3\RAND1311EX3\bin\Debug\RAND1311EX3.pdb
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.csprojAssemblyReference.cache
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.Form1.resources
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.Properties.Resources.resources
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.csproj.GenerateResource.cache
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.csproj.CoreCompileInputs.cache
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.exe
+W:\Проектировка\RAND1311EX3\RAND1311EX3\obj\Debug\RAND1311EX3.pdb

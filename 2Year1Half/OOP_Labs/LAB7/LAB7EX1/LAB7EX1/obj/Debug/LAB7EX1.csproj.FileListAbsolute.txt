@@ -1,0 +1,7 @@
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\bin\Debug\LAB7EX1.exe.config
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\bin\Debug\LAB7EX1.exe
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\bin\Debug\LAB7EX1.pdb
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\obj\Debug\LAB7EX1.csprojAssemblyReference.cache
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\obj\Debug\LAB7EX1.csproj.CoreCompileInputs.cache
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\obj\Debug\LAB7EX1.exe
+W:\ООП\LAB7\LAB7EX1\LAB7EX1\obj\Debug\LAB7EX1.pdb

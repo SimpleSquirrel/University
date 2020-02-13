@@ -1,0 +1,9 @@
+W:\Проектировка\Oval\Oval\bin\Debug\Oval.exe.config
+W:\Проектировка\Oval\Oval\bin\Debug\Oval.exe
+W:\Проектировка\Oval\Oval\bin\Debug\Oval.pdb
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.csprojAssemblyReference.cache
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.Properties.Resources.resources
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.csproj.GenerateResource.cache
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.csproj.CoreCompileInputs.cache
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.exe
+W:\Проектировка\Oval\Oval\obj\Debug\Oval.pdb

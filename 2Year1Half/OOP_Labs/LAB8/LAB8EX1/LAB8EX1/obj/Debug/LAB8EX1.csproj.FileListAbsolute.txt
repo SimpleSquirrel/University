@@ -1,0 +1,7 @@
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\bin\Debug\LAB8EX1.exe.config
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\bin\Debug\LAB8EX1.exe
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\bin\Debug\LAB8EX1.pdb
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\obj\Debug\LAB8EX1.csprojAssemblyReference.cache
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\obj\Debug\LAB8EX1.csproj.CoreCompileInputs.cache
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\obj\Debug\LAB8EX1.exe
+W:\ООП\LAB8\LAB8EX1\LAB8EX1\obj\Debug\LAB8EX1.pdb

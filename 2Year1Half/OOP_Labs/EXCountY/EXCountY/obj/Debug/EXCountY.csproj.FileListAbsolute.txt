@@ -1,0 +1,13 @@
+W:\ООП\EXCountY\EXCountY\bin\Debug\EXCountY.exe.config
+W:\ООП\EXCountY\EXCountY\bin\Debug\EXCountY.exe
+W:\ООП\EXCountY\EXCountY\bin\Debug\EXCountY.pdb
+W:\ООП\EXCountY\EXCountY\bin\Debug\ShitLib.dll
+W:\ООП\EXCountY\EXCountY\bin\Debug\ShitLib.pdb
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.csprojAssemblyReference.cache
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.Form1.resources
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.Properties.Resources.resources
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.csproj.GenerateResource.cache
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.csproj.CoreCompileInputs.cache
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.csproj.CopyComplete
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.exe
+W:\ООП\EXCountY\EXCountY\obj\Debug\EXCountY.pdb
